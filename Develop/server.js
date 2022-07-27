@@ -2,7 +2,7 @@ const { response } = require('express');
 const express = require(`express`);
 const path = require('path');
 
-const PORT = process.env.port || 3001;
+const PORT = process.env.PORT || 3001;
 const {readAndAppend, readFromFile, readAndDelete} = require("./fsUtils")
 const app = express();
 const uuid = require('./helpers/uuid');
