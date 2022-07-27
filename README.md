@@ -18,3 +18,5 @@ Url: https://notetaker-md11-vt.herokuapp.com/
 ## Personal Notes
 
 ---
+
+The main frustration that came from this assignment was 1000% due to Heroku errors that made life difficult. But eventually I was able to get them resolved.
